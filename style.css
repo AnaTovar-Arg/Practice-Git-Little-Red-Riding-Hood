@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(247, 161, 255);
+}
+
+.img{
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    }
+    
+h1{ 
+text-align: center;
+size: 60PX;
+}
+
+p{
+justify-content: center;
+text-align: center;
+}
+
+.letter{
+font-size: 24%
+}
+
+img{
+border-radius: 20px; justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
