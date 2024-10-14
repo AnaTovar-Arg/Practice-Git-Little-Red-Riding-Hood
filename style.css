@@ -1,0 +1,22 @@
+Head{img max-width: 320px;
+    float:inline-start ;
+    border: 3px solid #a30202;
+    border-radius: 10px;
+    margin-right: 40px;
+} h1 { align-content: center; align-content: ;
+    font-size: 80px;
+}
+
+body{
+    background-color: rgb(252, 177, 215);
+    display: flex;
+    justify-content: center;
+}
+
+p { font-size: 2rem;    color: rgb(60, 60, 60);
+    border-radius: 10%;
+    font-weight: 300;
+    justify-content: space-between;
+    line-height: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
