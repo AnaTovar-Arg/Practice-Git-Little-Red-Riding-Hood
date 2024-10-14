@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     justify-items: center;
+    border-radius: 20px , 20px , 20px , 20px
     }
     
 h1{ 
@@ -25,11 +26,6 @@ text-decoration-line:inherit
 
 .letter{
 font-size: 48rem
-}
-
-img{
-justify-content: center;
-justify-items: center;
 }
 
 footer{
