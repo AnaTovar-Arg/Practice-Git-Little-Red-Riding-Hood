@@ -27,7 +27,10 @@ text-decoration-line:inherit
 .letter{
 font-size: 48rem
 }
-
+img{
+border-radius: 20px; 
+justify-content: center;
+}
 footer{
     display: flex;
     justify-content: center;
