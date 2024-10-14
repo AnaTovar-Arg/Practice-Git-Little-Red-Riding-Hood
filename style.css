@@ -1,5 +1,6 @@
 body{
     background-color: rgb(247, 161, 255);
+    background-size:contain
 }
 
 .img{
@@ -19,11 +20,11 @@ text-align: center;
 }
 
 .letter{
-font-size: 24%
+font-size: 48rem
 }
 
 img{
-border-radius: 20px; justify-content: center;
+justify-content: center;
 }
 
 footer{
