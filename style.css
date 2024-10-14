@@ -2,13 +2,12 @@ body{
     background-color: rgb(247, 161, 255);
     background-size:contain
 }
+    .img{
+        display: flex;    
+        justify-content: center;
+        align-items: center;
+}
 
-.img{
-    display: flex;    
-    justify-content: center;
-    align-items: center;
-    }
-    
 h1{ 
 text-align: center;
 size: 500PX;
